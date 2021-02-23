@@ -91,7 +91,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/sound\/monk.mp3"
+                 "value":"Sound\/monk.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/github.com\/engelberthans\/leon\/blob\/master\/Sound\/ichbinreich.mp3"
+                 "value":"Sound\/leon aergert.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/sound\/ichbinreich.mp3"
+                 "value":"Sound\/ichbinreich.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
