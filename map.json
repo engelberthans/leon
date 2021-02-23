@@ -107,7 +107,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/www.dropbox.com\/s\/cydig9qopccuo75\/leonaergert.mp3?dl=0"
                 }],
@@ -145,7 +145,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/www.dropbox.com\/s\/hplpctuw7ayijp8\/Samson%20sagt%20Leon%20%28online-audio-converter.com%29.mp3?dl=0"
+                 "value":"https:\/\/www.dropbox.com\/s\/hplpctuw7ayijp8\/Samson.mp3?dl=0"
                 }],
          "type":"tilelayer",
          "visible":true,
