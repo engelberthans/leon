@@ -91,7 +91,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"monk.mp3"
+                 "value":"https:\/\/www.dropbox.com\/s\/k2365urhg8az32j\/monk.mp3?dl=0"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"\/leonaergert.mp3"
+                 "value":"https:\/\/www.dropbox.com\/s\/cydig9qopccuo75\/leonaergert.mp3?dl=0"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/ichbinreich.mp3"
+                 "value":"https:\/\/www.dropbox.com\/s\/7hcjnsr67ameh6b\/ichbinreich.mp3?dl=0"
                 }],
          "type":"tilelayer",
          "visible":true,
